@@ -93,11 +93,8 @@ body {
 .section-1 .col-8{
     width: 66%;
 }
-.section-1-item-left{
-    padding-right: 6px;
-}
-.section-1-item-right{
-    padding-left: 6px;
+.section-1 .col-4{
+    float: right;
 }
 .item-1 {
     height: 350px;
