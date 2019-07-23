@@ -80,6 +80,6 @@ Media query for handle in different screen width. For this website, i has query 
 # What does it look like ?
 ![PC Version](https://github.com/Sahapat/HTML-CSS-Responsive-Learn/blob/master/MD-Image/screenshot-1.PNG)
 <p float="left">
-    <img src="https://github.com/Sahapat/HTML-CSS-Responsive-Learn/blob/master/MD-Image/screenshot-2.PNG" width="600">
-    <img src="https://github.com/Sahapat/HTML-CSS-Responsive-Learn/blob/master/MD-Image/screenshot-3.PNG" width="260">
+    <img src="https://github.com/Sahapat/HTML-CSS-Responsive-Learn/blob/master/MD-Image/screenshot-2.PNG" width="200">
+    <img src="https://github.com/Sahapat/HTML-CSS-Responsive-Learn/blob/master/MD-Image/screenshot-3.PNG" width="200">
 </p>
