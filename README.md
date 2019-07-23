@@ -79,7 +79,4 @@ Media query for handle in different screen width. For this website, i has query 
 
 # What does it look like ?
 ![PC Version](https://github.com/Sahapat/HTML-CSS-Responsive-Learn/blob/master/MD-Image/screenshot-1.PNG)
-<p float="left">
-    <img src="https://github.com/Sahapat/HTML-CSS-Responsive-Learn/blob/master/MD-Image/screenshot-2.PNG" width="200">
-    <img src="https://github.com/Sahapat/HTML-CSS-Responsive-Learn/blob/master/MD-Image/screenshot-3.PNG" width="200">
-</p>
+[Link to view the website](https://sahapat.github.io/HTML-CSS-Responsive-Learn/)
